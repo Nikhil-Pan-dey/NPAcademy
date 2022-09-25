@@ -7,7 +7,7 @@ public class MyConnection {
 		Connection con = null;
 		try {
 		Class.forName("com.mysql.cj.jdbc.Driver");
-			con=DriverManager.getConnection("jdbc:mysql://ugklfhsz2j6devws:yNcvzGd0bCtVC8q2Veyo@bnjnbf0zxao8xxx0blqe-mysql.services.clever-cloud.com:3306/bnjnbf0zxao8xxx0blqe","ugklfhsz2j6devws","yNcvzGd0bCtVC8q2Veyo");
+			con=DriverManager.getConnection("jdbc:mysql://upg7iw6sbso9rrci:sw3oYx152QKHZKPeZLVw@bqbi412k797vxk1korpl-mysql.services.clever-cloud.com:3306/bqbi412k797vxk1korpl","upg7iw6sbso9rrci","sw3oYx152QKHZKPeZLVw");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
