@@ -1,0 +1,148 @@
+/* For header */
+#div1{
+    height: 60px;
+    width: 100%;
+    border: solid rgb(122, 121, 99) 2px;
+    background-color: rgb(128, 101, 204);
+    margin-top: 30px;
+    margin-left: -8px;   
+    position: sticky;
+    top:-8px;
+}
+/* for icon */
+#img1{
+    height: 60px;
+    width: auto;
+    margin-right: 560px;
+    float: left;
+}
+/* For elements in header  */
+#li1{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 20px;
+    font-size: 25px;
+    height: 33px;
+}
+#li2{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-size: 25px;
+    height: 33px;
+}
+#li3{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-size: 25px;
+    height: 33px;
+}
+#li4{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-size: 25px;
+    height: 33px;
+    
+}
+#li5{
+    display: inline-block;
+    background-color: rgb(250, 180, 115);
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-size: 25px;
+    height: 38px;
+    width:110px;
+    border-radius: 20px;
+    border: none;
+    /* color: rgb(14, 177, 63); */
+}
+#li1:hover{
+    font-size: 33px;
+    margin-top: -5px;
+    margin-left: 0px;
+    margin-right: 1px;
+}
+#li2:hover{
+    font-size: 33px;
+    margin-top: -5px;
+    margin-left: 0px;
+    margin-right: 4px;
+}
+#li3:hover{
+    font-size: 33px;
+    margin-top: -5px;
+    margin-left: 0px;
+    margin-right: -3px;
+}
+#li4:hover{
+    font-size: 33px;
+    margin-top: -5px;
+    margin-left: 0px;
+    margin-right: -6px;
+}
+
+a{
+    text-decoration: none;
+}
+.a{
+    text-decoration: none;
+    color: rgb(7, 247, 79);
+}
+.a:hover{
+    color: rgb(201, 250, 26);
+}
+
+#submit1:hover{
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+}
+
+#div2{
+    height: 300px;
+    width: 35%;
+    border: solid blue 3px;
+    margin-left: 430px;
+    margin-top: 120px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(125, 231, 235);
+}
+Label{
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(224, 40, 40);
+    margin-top: 10px;
+}
+form{
+    font-size: 15px;
+    margin-top: 10px;
+
+}
+#a1{
+    margin-left: 70px ;
+}
+#submit1{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 25px;
+    width: 75px ;
+    height: 30px;
+    border-radius: 15px;
+}
+input{
+    margin-top: 5px;
+    height: 20px;
+    width: 200px;
+}
+input:hover{
+    height: 30px;
+    width: 250px;
+}
